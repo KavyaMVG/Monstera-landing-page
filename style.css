@@ -1,0 +1,96 @@
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Allerta', sans-serif;
+}
+
+#navbarMonstera{
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+::marker{
+    font-size: 1.7rem;
+}
+#navMid{
+    display: flex;
+    gap: 5rem;
+}
+#navEnd{
+    display: flex;
+    gap: 2rem;
+}
+#midWhole{
+    display: flex;
+    justify-content: center;
+    /* padding: 1rem  2rem; */
+    align-items: center;
+}
+#midWholePart1{
+    padding-left: 4rem ;
+}
+.home{
+    border-bottom: 2px solid #000
+
+}
+#imgMain{
+    width: 500px;
+}
+#monstera{
+    font-size: 7rem;
+    font-weight: 900;
+    letter-spacing: 0px;
+}
+.midWholePart13{
+    display: flex;
+}
+.midWholePart13Parts{
+    display: flex;
+    list-style:circle;
+    font-size: 1rem;
+}
+.discover-btn{
+    padding: 1rem 2rem;
+    background-color: hsl(135deg 22% 35%);
+    color: white;
+    display: flex;
+    border-radius: 2rem;
+    border: 0;
+}
+.midWholePart122{
+    color: white;
+    width: 10px;
+    margin: auto;
+    margin-left: 14px;
+}
+.discover-title{
+    font-weight: 400;
+}
+.text{
+    font-size: .7rem;
+}
+
+.icons{
+    width:40px;
+    margin-right: 1rem;
+}
+.list-para{
+    font-size: 1.2rem;
+}
+.footer-heading{
+    font-size: 1.3rem;
+}
+
+#midWholePart13{
+    padding: 4rem 0 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+#midWholePart12{
+    margin-top: 3rem;
+}
